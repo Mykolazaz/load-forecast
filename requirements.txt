@@ -11,3 +11,7 @@ statsmodels==0.14.6
 pmdarima==2.1.1
 
 scikit-learn==1.8.0
+lightgbm==4.6.0
+chronos-forecasting==2.2.2
+
+holidays==0.97
